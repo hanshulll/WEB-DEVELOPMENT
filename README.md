@@ -76,3 +76,37 @@
       
  </details>
     
+    
+<details>
+  <summary> TEXT TAGS 😁 </summary>
+  <br>
+  
+  > `<pre> </pre> --> Creates preformatted text`
+  > <br>
+  > `<h1> </h1> -- <h6> </h6> --> Creates headlines H1=largest, H6=smallest`
+  > <br>
+  > `<b> </b> --> Creates bold text (should use <strong> instead)`
+  > <br>
+  > `<i> </i> --> Creates italicized text (should use <em> instead)`
+  > <br>
+  > `<tt> </tt> --> Creates typewriter-style text`
+  > <br>
+  > `<code> </code> --> Used to define source code, usually monospace`
+  > <br>
+  > `<cite> </cite> --> Creates a citation, usually processed in italics`
+  > <br>
+  > `<address> </address> --> Creates address section, usually processed in italics`
+  > <br>
+  > `<em> </em> --> Emphasizes a word (usually processed in italics)`
+  > <br>
+  > `<strong> </strong> --> Emphasizes a word (usually processed in bold)`
+  > <br>
+  > `<font size=?> </font> --> Sets size of font - 1 to 7 (should use CSS instead)`
+  > <br>
+  > `<font color=?> </font> --> Sets font color (should use CSS instead)`
+  > <br>
+  > `<font face=?> </font> --> Defines the font used (should use CSS instead)`
+  > <br>
+  
+  </details>
+    
