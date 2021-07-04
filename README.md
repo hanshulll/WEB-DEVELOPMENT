@@ -1,17 +1,17 @@
 <hr size="3" noshade><br>
 <center>
-<h1> WEB-DEVELOPMENT </h1>
+<h1> WEB-DEVELOPMENT 👨‍💻</h1>
   </center>
 <br>
-<h4> SHORT REPOSITORY ON WEB-DEVELOPMENT FOR PERSONAL USE YOU CAN CHECK OR REVIEW AND SUGGEST ANY CHANGES OR CORRECTIONS. </h4><br>
+<h4> REPOSITORY ON WEB-DEVELOPMENT FOR PERSONAL USE YOU CAN CHECK OR REVIEW AND SUGGEST ANY CHANGES OR CORRECTIONS. </h4><br>
+<hr size="3" noshade><br>
 
-
-<h3><em>HTML CHEATSHEET</h3><em>
+<h3><em>HTML CHEATSHEET 😜</h3><em>
   
   <details>
-     <summary>BASIC TAGS</summary>
+     <summary>BASIC TAGS 🤩</summary>
        <br>
-  
+
  > `<html> </html> --> Creates an HTML document.`
  > <br>
   > `<head> </head> --> Sets off the title & other info that isn't displayed.`
@@ -23,7 +23,7 @@
     
 2.
     <details>
-      <summary>FORMATTING</summary>
+      <summary>FORMATTING 😁</summary>
       <br>
       
      > `<p> </p> --> Creates a new paragraph.`
@@ -40,7 +40,7 @@
   </details>
   
   <details>
-    <summary> BODY ATTRIBUTES (ONLY USED IN EMAIL NEWSLETTERS) </summary>
+    <summary> BODY ATTRIBUTES (ONLY USED IN EMAIL NEWSLETTERS) 😛</summary>
     <br>
     
   > `<body bgcolor=?> --> Sets background color, using name or hex value.`
@@ -58,7 +58,7 @@
   
 4. 
     <details>
-      <summary>LISTS</summary>
+      <summary>LISTS 🤭</summary>
       <br>
  
       > `<ul> </ul> --> Creates an unordered list.`
