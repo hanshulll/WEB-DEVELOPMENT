@@ -56,7 +56,7 @@
 
   </details>
   
-4. 
+4.   
     <details>
       <summary>LISTS 🤭</summary>
       <br>
@@ -110,3 +110,12 @@
   
   </details>
     
+6.
+    <details>
+    <summary>Graphical Elements 😯</summary>
+    <br>
+      
+    > `<hr> --> Inserts a horizontal rule`
+    ><br>
+    
+  </details>
