@@ -122,5 +122,16 @@
     ><br>
     > `<hr noshade> --> Creates a horizontal rule without a shadow`
     ><br>
-    
+    > `<img src="URL" /> --> Adds image; it is a separate file located at the URL`
+    ><br>
+    > `<img src="URL" align=?> --> Aligns image left/right/center/bottom/top/middle (use CSS)`
+    ><br>
+    > `<img src="URL" border=?> --> Sets size of border surrounding image (use CSS)`
+    ><br>
+    > `<img src="URL" height=?> --> Sets height of image, in pixels`
+    ><br>
+    > `<img src="URL" width=?> --> Sets width of image, in pixels`
+    ><br>
+    > `<img src="URL" alt=?> --> Sets the alternate text for browsers that can't process images (required by the ADA)  `
+    ><br>
   </details>
