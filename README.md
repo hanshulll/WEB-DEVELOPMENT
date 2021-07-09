@@ -117,5 +117,10 @@
       
     > `<hr> --> Inserts a horizontal rule`
     ><br>
+    > `<hr size=?> --> Sets size (height) of horizontal rule`  
+    > `<hr width=?> --> Sets width of rule (as a % or absolute pixel length)`
+    ><br>
+    > `<hr noshade> --> Creates a horizontal rule without a shadow`
+    ><br>
     
   </details>
