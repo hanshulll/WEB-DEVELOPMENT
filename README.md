@@ -1,7 +1,7 @@
 
-# PORTFOLIO
+# WEB-DEVELOPMENT 
 
-Will be Adding some cool updates in it soon
+Will be Adding some cool stuff in it !!
 
  ###  😎
 ### Front-End:
