@@ -1,137 +1,115 @@
-<hr size="3" noshade><br>
-<center>
-<h1> WEB-DEVELOPMENT 👨‍💻</h1>
-  </center>
+
+# PORTFOLIO
+
+Will be Adding some cool updates in it soon
+
+ ###  😎
+### Front-End:
+<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>  <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
+
+
+## 🚀 Quick Start :
+
+#### Step 1: Forking the repository :
+
+To work on this project, you will first need to make a copy of this repository. To do this, you should fork the repository and then clone it so that you have a local working copy.
+
+Get your own Fork/Copy of this repository by clicking `Fork` button at right upper corner of your screen.<br><br>
+
+#### Step 2: Clone the Forked Repository
+
+After the repository is forked, you can now clone it so that you have a local working copy of the codebase.
+
+To make your local copy of the repository follow the steps:
+- Open the Command Prompt
+- Type this command:
+  
+```bash
+$ git clone https://github.com/<your-github-username>/WEB-DEVELOPMENT
+```
+
+
+#### Step 3: Creating a new branch 
+This is one of the very important step that you should follow to contribute in Open Source. A branch helps to manage the workflow, isolate your code and does not creates a mess. To create a new branch:
+  
+```bash
+$ git branch <name_of_branch>
+$ git checkout -b <name_of_branch>
+```
+
+Keep your cloned repository upto to date by pulling from upstream (this will also avoid any merge conflicts while committing new changes)
+```bash
+git pull origin main
+```
+
+#### Step 5: Contribute
+Make relevant changes according to the issue that you were assigned on. Contribute in any way you feel like :)
+
+#### Step 6: Commiting and Pushing
+Once you have modified an existing file or added a new file to the project, you can add it to your local repository, which is being done with the git add command.
+
+```bash
+git add .
+```
+With our file staged, we’ll want to record the changes that we have made to the repository with the `git commit` command.
+
+The commit message is an important aspect of your code contribution; it helps the other contributors fully understand the changes you have made, why you made it, and how significant it is.
+
+```bash
+git commit -m "useful commit message"
+```
+
+At this point you can use the git push command to push the changes to the current branch of your forked repository:
+
+```bash
+git push origin <branch-name>
+```
+
+#### Step 7: Create Pull Request
+Now, you are ready to make a pull request to the original repository.
+
+You should navigate to your forked repository, and press the "Compare & pull request" button on the page.
+
+GitHub will alert you that you can merge the two branches because there is no competing code. You should add in a title, a comment, and then press the “Create pull request” button.
+
+
+
+
 <br>
-<h4> REPOSITORY ON WEB-DEVELOPMENT FOR PERSONAL USE YOU CAN CHECK OR REVIEW AND SUGGEST ANY CHANGES OR CORRECTIONS. </h4><br>
-<hr size="3" noshade><br>
 
-<h3><em>HTML CHEATSHEET 😜</h3><em>
-  
-  <details>
-     <summary>BASIC TAGS 🤩</summary>
-       <br>
-
- > `<html> </html> --> Creates an HTML document.`
- > <br>
-  > `<head> </head> --> Sets off the title & other info that isn't displayed.`
-  > <br>
-  > `<body> </body> --> Sets off the visible portion of the document.`
-  > <br>
-  > `<title> </title> --> Puts name of the document in the title bar; when bookmarking pages, this is what is bookmarked.`
-   </details>
-    
-2.
-    <details>
-      <summary>FORMATTING 😁</summary>
-      <br>
-      
-     > `<p> </p> --> Creates a new paragraph.`
-      > <br>
-      > `<br> --> AInserts a line break (carriage return).`
-      > <br>
-      > `<blockquote> </blockquote> --> Puts content in a quote - indents text from both sides.`
-      > <br>
-      > `<div> </div> --> Used to format block content with CSS.`
-      > <br>
-      > `<span> </span> --> Used to format inline content with CSS.`
-      > <br>
-      
-  </details>
-  
-  <details>
-    <summary> BODY ATTRIBUTES (ONLY USED IN EMAIL NEWSLETTERS) 😛</summary>
-    <br>
-    
-  > `<body bgcolor=?> --> Sets background color, using name or hex value.`
-  >  <br>
-  > `<body text=?> --> Sets text color, using name or hex value`
-  >  <br>
-  >  `<body link=?> --> Sets color of links, using name or hex value`
-  >  <br>
-  >   `<body vlink=?> --> Sets color of visited links, using name or hex value`
-  >  <br>
-  >  `<body alink=?> --> Sets color of active links (while mouse-clicking)`
-  > <br>  
-
-  </details>
-  
-4.   
-    <details>
-      <summary>LISTS 🤭</summary>
-      <br>
  
-      > `<ul> </ul> --> Creates an unordered list.`
-      > <br>
-      > ` <ol start=?> </ol> --> Creates an ordered list (start=xx, where xx is a counting number).`
-      > <br>
-      > `<li> </li> --> Encompasses each list item.`
-      > <br>
-      > `<dl> </dl> --> Creates a definition list.`
-      > <br>
-      > `<dt> --> Precedes eachdefintion term.`
-      > <br>
-      > `<dd> --> Precedes eachdefintion`
-      > <br>
-      
- </details>
-    
-    
-<details>
-  <summary> TEXT TAGS 😁 </summary>
-  <br>
-  
-  > `<pre> </pre> --> Creates preformatted text`
-  > <br>
-  > `<h1> </h1> -- <h6> </h6> --> Creates headlines H1=largest, H6=smallest`
-  > <br>
-  > `<b> </b> --> Creates bold text (should use <strong> instead)`
-  > <br>
-  > `<i> </i> --> Creates italicized text (should use <em> instead)`
-  > <br>
-  > `<tt> </tt> --> Creates typewriter-style text`
-  > <br>
-  > `<code> </code> --> Used to define source code, usually monospace`
-  > <br>
-  > `<cite> </cite> --> Creates a citation, usually processed in italics`
-  > <br>
-  > `<address> </address> --> Creates address section, usually processed in italics`
-  > <br>
-  > `<em> </em> --> Emphasizes a word (usually processed in italics)`
-  > <br>
-  > `<strong> </strong> --> Emphasizes a word (usually processed in bold)`
-  > <br>
-  > `<font size=?> </font> --> Sets size of font - 1 to 7 (should use CSS instead)`
-  > <br>
-  > `<font color=?> </font> --> Sets font color (should use CSS instead)`
-  > <br>
-  > `<font face=?> </font> --> Defines the font used (should use CSS instead)`
-  > <br>
-  
-  </details>
-    
-6.
-    <details>
-    <summary>Graphical Elements 😯</summary>
-    <br>
-      
-    > `<hr> --> Inserts a horizontal rule`
-    ><br>
-    > `<hr size=?> --> Sets size (height) of horizontal rule`  
-    > `<hr width=?> --> Sets width of rule (as a % or absolute pixel length)`
-    ><br>
-    > `<hr noshade> --> Creates a horizontal rule without a shadow`
-    ><br>
-    > `<img src="URL" /> --> Adds image; it is a separate file located at the URL`
-    ><br>
-    > `<img src="URL" align=?> --> Aligns image left/right/center/bottom/top/middle (use CSS)`
-    ><br>
-    > `<img src="URL" border=?> --> Sets size of border surrounding image (use CSS)`
-    ><br>
-    > `<img src="URL" height=?> --> Sets height of image, in pixels`
-    ><br>
-    > `<img src="URL" width=?> --> Sets width of image, in pixels`
-    ><br>
-    > `<img src="URL" alt=?> --> Sets the alternate text for browsers that can't process images (required by the ADA)  `
-    ><br>
-  </details>
+
+ <h1 align=center> Project Admin ❤️ </h1>
+<p align="center">
+
+<table>
+  <tbody><tr>
+ <td align="center"><a href="https://github.com/hanshulll"><img alt="" src="https://avatars.githubusercontent.com/u/56799372?v=4" width="130px;"><br><sub><b> Hanshul Chandel</b></sub></a><br><a href="https://github.com/hanshulll/WEB-DEVELOPMENT/commits?author=hanshulll" title="Code">💻 </a></td> </a></td>
+
+</tbody></table>
+
+
+<h2 align=center> ✨ Contributors </h2>
+
+Thanks go to these **Wonderful People** 👨🏻‍💻:      🚀 **Contributions** of any kind are welcome! 
+
+<table>
+	<tr>
+		 <td>
+  		<a href="https://github.com/hanshulll/WEB-DEVELOPMENT/graphs/contributors">
+  			<img src="https://contributors-img.web.app/image?repo=hanshulll/WEB-DEVELOPMENT" />
+  		</a>
+		</td>
+	</tr>
+</table>
+
+
+
+
+
+<hr>
+
+<h1 align=center>Happy Coding 👨‍💻 </h1>
+
+<p align="center">show some ❤️&nbsp; by giving a star to this repo!!</p>
+
