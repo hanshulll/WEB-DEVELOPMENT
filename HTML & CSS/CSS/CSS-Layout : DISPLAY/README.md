@@ -14,7 +14,7 @@
 
 
 
-### COMMON BLOCK ELEMENTS
+#### COMMON BLOCK ELEMENTS
 - Paragraph `<p> </p>`
 - Header `<h1> through <h6>`
 - Division `<div>`
@@ -23,7 +23,7 @@
 - Footer `<footer> </footer>`
 - Section `<section> </section>`
 
-#### EXAMPLE :- 
+##### EXAMPLE :- 
 
 h1 { <br>
   display: block; <br>
@@ -35,12 +35,12 @@ h1 { <br>
 
 - An inline element does not start on a new line and only takes up as much width as necessary.
 
-### COMMON INLILNE ELEMENTS
+#### COMMON INLILNE ELEMENTS
 - Spans `<span> </span>`
 - Images `<img>`
 - Anchors `<a> </a>`
 
-#### EXAMPLE :- 
+##### EXAMPLE :- 
 img { <br>
    display: inline; <br>
 } <br>
