@@ -45,4 +45,33 @@ img { <br>
    display: inline; <br>
 } <br>
 
+<hr>
+
+### INLINE-BLOCK ELEMENT
+
+- Compared to `display: inline`, the major difference is that `display: inline-block` allows to set a width and height on the element.
+- Also, with `display: inline-block`, the top and bottom margins/paddings are respected, but with `display: inline` they are not.
+- Compared to` display: block`, the major difference is that` display: inline-block` does not add a line-break after the element, so the element can sit next to other elements.
+
+#### EXAMPLE :- 
+div { <br>
+  display: inline-block; <br>
+  background: grey; <br>
+} 
+<hr>
+
+### NONE ELEMENT 
+
+- `display: none;` is commonly used with JavaScript to hide and show elements without deleting and recreating them. 
+- The `<script>` element uses `display: none;` as default. 
+
+#### EXAMPLE :- 
+
+p { <br>
+  display: none; <br>
+  background: purple; <br>
+}
+
+
+
 
