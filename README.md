@@ -77,7 +77,7 @@ GitHub will alert you that you can merge the two branches because there is no co
 
 <br>
 
- 
+<img align="center" alt="WEB-DEV" src="Web-Dev.jpg"> 
 
  <h1 align=center> Project Admin ❤️ </h1>
 <p align="center">
@@ -87,6 +87,7 @@ GitHub will alert you that you can merge the two branches because there is no co
  <td align="center"><a href="https://github.com/hanshulll"><img alt="" src="https://avatars.githubusercontent.com/u/56799372?v=4" width="130px;"><br><sub><b> Hanshul Chandel</b></sub></a><br><a href="https://github.com/hanshulll/WEB-DEVELOPMENT/commits?author=hanshulll" title="Code">💻 </a></td> </a></td>
 
 </tbody></table>
+
 
 
 <h2 align=center> ✨ Contributors </h2>
