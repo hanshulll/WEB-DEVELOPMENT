@@ -135,3 +135,10 @@
     > `<img src="URL" alt=?> --> Sets the alternate text for browsers that can't process images (required by the ADA)  `
     ><br>
   </details>
+  
+  <details>
+    <summary>Links 😇</summary>
+    <br>
+    
+   > `<a href="URL">clickable text</a> --> Creates a hyperlink to a Uniform Resource Locator`
+   ><br> 
