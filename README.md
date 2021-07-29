@@ -1,6 +1,10 @@
 
-# WEB-DEVELOPMENT 
+<h1 align="center"> WEB-DEVELOPMENT <br></h1>
+<br>
 
+<img align="center" alt="WEB-DEV" src="Web-Dev.jpg"> 
+<br>
+<hr>
 Will be Adding some cool stuff in it !!
 
  ###  😎
@@ -77,7 +81,6 @@ GitHub will alert you that you can merge the two branches because there is no co
 
 <br>
 
-<img align="center" alt="WEB-DEV" src="Web-Dev.jpg"> 
 
  <h1 align=center> Project Admin ❤️ </h1>
 <p align="center">
