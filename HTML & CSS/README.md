@@ -142,3 +142,9 @@
     
    > `<a href="URL">clickable text</a> --> Creates a hyperlink to a Uniform Resource Locator`
    ><br> 
+   > `<a href="mailto:EMAIL_ADDRESS">clickable text</a>--> Creates a hyperlink to an email address` 
+   ><br>
+   > `<a name="NAME">-->Creates a target location within a document`
+   ><br>
+   > `<a href="#NAME">clickable text</a> --> Creates a link to that target location` 
+   ><br>  
