@@ -156,5 +156,6 @@
       <br>
       
    > `<form> </form> --> Defines a form`   
+   > `<select multiple name=? size=?> </select> --> Creates a scrolling menu. Size sets the number of menu   items visible before user needs to scroll.`   
    ><br>   
       
