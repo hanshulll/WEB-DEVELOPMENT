@@ -148,3 +148,13 @@
    ><br>
    > `<a href="#NAME">clickable text</a> --> Creates a link to that target location` 
    ><br>  
+    </details>
+    
+7.
+    <details>
+      <summary>FORMS</summary>
+      <br>
+      
+   > `<form> </form> --> Defines a form`   
+   ><br>   
+      
