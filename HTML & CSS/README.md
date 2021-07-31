@@ -161,5 +161,8 @@
    ><br>
    >`<option> --> Sets off each menu item`  
    >`<textarea name=? cols="x" rows="y"></textarea> --> Creates a text box area. Columns set the width; rows set the height.`
+   ><br>
+   >`<input type="checkbox" name=? value=?> --> Creates a checkbox.`
+   ><br>
+   >`<input type="checkbox" name=? value=? checked> --> Creates a checkbox which is pre-checked.`
    ><br>   
-      
