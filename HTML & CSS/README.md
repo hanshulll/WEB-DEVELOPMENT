@@ -150,12 +150,16 @@
    ><br>  
     </details>
     
-7.
+8.
     <details>
       <summary>FORMS</summary>
       <br>
       
    > `<form> </form> --> Defines a form`   
    > `<select multiple name=? size=?> </select> --> Creates a scrolling menu. Size sets the number of menu   items visible before user needs to scroll.`   
+   >`<select name=?> </select> --> Creates a pulldown menu`
+   ><br>
+   >`<option> --> Sets off each menu item`  
+   >`<textarea name=? cols="x" rows="y"></textarea> --> Creates a text box area. Columns set the width; rows set the height.`
    ><br>   
       
