@@ -164,5 +164,8 @@
    ><br>
    >`<input type="checkbox" name=? value=?> --> Creates a checkbox.`
    ><br>
-   >`<input type="checkbox" name=? value=? checked> --> Creates a checkbox which is pre-checked.`
+   >`<input type="checkbox" name=? value=? checked> --> Creates a checkbox which is pre-checked.`      
+   >`<input type="radio" name=? value=?> --> Creates a radio button.`
    ><br>   
+   >`<input type="radio" name=? value=? checked> --> Creates a radio button which is pre-checked.`  
+   >`<input type="text" name=? size=?> --> Creates a one-line text area. Size sets length, in characters.`   
