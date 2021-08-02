@@ -172,3 +172,8 @@
    >`<input type="submit" value=?> --> Creates a submit button. Value sets the text in the submit button`
    >`<input type="image" name=? src=? border=? alt=?> --> Creates a submit button using an image.`   
    >`<input type="reset"> --> Creates a reset button`   
+    </details>
+    
+     <details>
+       <summary>TABLES (use only for data layout - use CSS for page layout) 🤠</summary>
+    </details>
