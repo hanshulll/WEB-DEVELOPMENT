@@ -169,3 +169,6 @@
    ><br>   
    >`<input type="radio" name=? value=? checked> --> Creates a radio button which is pre-checked.`  
    >`<input type="text" name=? size=?> --> Creates a one-line text area. Size sets length, in characters.`   
+   >`<input type="submit" value=?> --> Creates a submit button. Value sets the text in the submit button`
+   >`<input type="image" name=? src=? border=? alt=?> --> Creates a submit button using an image.`   
+   >`<input type="reset"> --> Creates a reset button`   
