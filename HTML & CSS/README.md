@@ -176,4 +176,15 @@
     
      <details>
        <summary>TABLES (use only for data layout - use CSS for page layout) 🤠</summary>
+       <br>
+       
+    > `<table> </table> --> Creates a table`
+    ><br>
+    > `<tr> </tr> --> Sets off each row in a table`
+    ><br>
+    > `<td> </td> --> Sets off each cell in a row`
+    ><br>
+    > `<th> </th> --> Sets off the table header (a normal cell with bold, centered text)`
+    ><br>
     </details>
+       
