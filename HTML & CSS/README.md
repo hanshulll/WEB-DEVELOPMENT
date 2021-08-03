@@ -188,3 +188,7 @@
     ><br>
     </details>
        
+10.
+    <details>
+      <summary>TABLE ATTRIBUTES</summary>
+      <br>
