@@ -188,9 +188,8 @@
     ><br>
     </details>
        
-10.
-    <details>
-      <summary>TABLE ATTRIBUTES (only use for email newsletters) 😋</summary>
+
+ ### TABLE ATTRIBUTES (only use for email newsletters) 😋
    > `<table border=?> --> Sets the width of the border around table cells`    
    ><br>
       </details>
