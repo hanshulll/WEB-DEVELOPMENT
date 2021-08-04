@@ -190,5 +190,7 @@
        
 10.
     <details>
-      <summary>TABLE ATTRIBUTES</summary>
-      <br>
+      <summary>TABLE ATTRIBUTES (only use for email newsletters) 😋</summary>
+   > `<table border=?> --> Sets the width of the border around table cells`    
+   ><br>
+      </details>
