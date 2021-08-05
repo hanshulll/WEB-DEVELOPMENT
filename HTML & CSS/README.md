@@ -191,5 +191,5 @@
 
  ### TABLE ATTRIBUTES (only use for email newsletters) 😋
    > `<table border=?> --> Sets the width of the border around table cells`    
-   ><br>
+   > `<table cellspacing=?> --> Sets amount of space between table cells` 
       </details>
