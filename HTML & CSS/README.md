@@ -1,6 +1,6 @@
 <hr size="3" noshade><br>
 <center>
-<h1> WEB-DEVELOPMENT 👨‍💻</h1>
+<h1 align="center"> WEB-DEVELOPMENT 👨‍💻 <br></h1>
   </center>
 <br>
 <h4> REPOSITORY ON WEB-DEVELOPMENT FOR PERSONAL USE YOU CAN CHECK OR REVIEW AND SUGGEST ANY CHANGES OR CORRECTIONS. </h4><br>
