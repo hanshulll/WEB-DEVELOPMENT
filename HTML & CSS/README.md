@@ -194,4 +194,20 @@
    > `<table cellspacing=?> --> Sets amount of space between table cells` 
    ><br>
    > `<table cellpadding=?> --> Sets amount of space between a cell's border and its contents` 
+   ><br> 
+   > `<table width=?> --> Sets width of the table in pixels or as a percentage`<br> 
+   > `<tr align=?> --> Sets alignment for cells within the row (left/center/right)` 
+   ><br> 
+   > `<td align=?> --> Sets alignment for cells (left/center/right)` 
+   ><br> 
+   > `<tr valign=?> --> Sets vertical alignment for cells within the row (top/middle/bottom)`
+   ><br> 
+   > `<td valign=?> --> Sets vertical alignment for cell (top/middle/bottom)` 
+   ><br> 
+   > `<td rowspan=?> --> Sets number of rows a cell should span (default=1)` 
+   ><br> 
+   > `<td colspan=?> --> Sets number of columns a cell should span` 
+   ><br> 
+   > `<td nowrap> --> Prevents lines within a cell from being broken to fit` 
+   ><br> 
       </details>
