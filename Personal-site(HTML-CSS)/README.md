@@ -1,6 +1,6 @@
 <h1 align="center">HTML&CSS-PERSONAL WEBSITE LANDING PAGE</h1>
 
-Start up landing page for a personal-website Portfolio.
+Start up landing page for a personal-website.
 
 ## Deployment
 
@@ -9,9 +9,8 @@ Deployed Website: [Hanshul Chandel](https://hanshulll.github.io)
 
 ## Built With
 
-  * HTML
-  * CSS
-  * Bootstrap
+ - [x] HTML
+- [x] CSS
 
 ## Authors
 
