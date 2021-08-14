@@ -211,3 +211,11 @@
    > `<td nowrap> --> Prevents lines within a cell from being broken to fit` 
    ><br> 
       </details>
+<details>
+     <summary>PAGE-1 🤩</summary>
+<img align="center" alt="PAGE-1" src="HTML-1.png"> 
+  </details>
+<details>
+  <summary>PAGE-2 🤠 </summary>
+<img align="center" alt="PAGE-2" src="HTML-2.png"> 
+  </details>
