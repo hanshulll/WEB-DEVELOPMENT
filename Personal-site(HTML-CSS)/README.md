@@ -4,7 +4,7 @@ Start up landing page for a personal-website.
 
 ## Deployment
 
-Deployed Website: [Hanshul Chandel](https://hanshulll.github.io)
+Deployed Website: 
 
 
 ## Built With
