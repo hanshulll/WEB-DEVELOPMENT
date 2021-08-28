@@ -1,4 +1,4 @@
-<h1 align="center">HTML&CSS-PERSONAL WEBSITE LANDING PAGE</h1>
+<h1 align="center"> HTML & CSS PERSONAL WEBSITE </h1>
 
 Start up landing page for a personal-website.
 
