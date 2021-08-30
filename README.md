@@ -1,16 +1,25 @@
-
 <h1 align="center"> WEB-DEVELOPMENT <br></h1>
+
+
+<h4 align= centre>This repository includes various concepts related to Web-Development by using which students can start their Development journey this repository include amazing cheatsheets of the concepts like Git, Html, Css, and much more to come and also feel free to contribute and help for this good cause.</h4>
+
+<br>
+<hr>
+<h1 align="center"> WEB-DEVELOPMENT ROADMAP<br></h1>
+
+    
 <br>
 
 <img align="center" alt="WEB-DEV" src="Web-Dev.jpg"> 
 <br>
 <hr>
-Will be Adding some cool stuff in it !!
 
- ###  😎
+<br>
+
 ### Front-End:
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>  <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
 
+<br>
 
 ## 🚀 Quick Start :
 
