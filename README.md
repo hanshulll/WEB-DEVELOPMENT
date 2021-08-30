@@ -1,7 +1,7 @@
 <h1 align="center"> WEB-DEVELOPMENT <br></h1>
 
 
-<h4 align= centre>This repository includes various concepts related to Web-Development by using which students can start their Development journey this repository include amazing cheatsheets of the concepts like Git, Html, Css, and much more to come and also feel free to contribute and help for this good cause.</h4>
+<h4 align= centre>This repository includes various concepts related to Web-Development by using which students can start their Development journey this repository include amazing cheatsheets of the concepts like Git, Html, Css, and many small projects which students can re-produce for testing their skills and much more to come and also feel free to contribute and help for this good cause all types of suggestions are more than welcome.</h4>
 
 <br>
 <hr>
