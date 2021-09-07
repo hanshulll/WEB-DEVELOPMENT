@@ -49,6 +49,8 @@ SOFTWARE.
 
   * The Complete 2020 Web Development Bootcamp by Angela Yu
 
-### Deployment Snapshot
+<br>
+
+<h3 align="center"> Deployment Snapshot</h3>
 
 <img align="center" src="tindog.png" class="banner" width="100%" height="50%"/>
