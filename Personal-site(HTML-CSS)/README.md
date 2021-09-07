@@ -47,3 +47,8 @@ SOFTWARE.
 ## Acknowledgments
 
   * The Complete 2020 Web Development Bootcamp by Angela Yu
+
+<br>
+<h3 align="center">Deployment Screenshot</h3>
+<img align="center" src="image.png" class="banner" width="100%" height="50%"/>
+
