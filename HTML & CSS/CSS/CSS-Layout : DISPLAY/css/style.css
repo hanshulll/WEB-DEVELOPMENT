@@ -1,0 +1,31 @@
+
+.first-line{
+   display: inline;
+   background: blue;
+}
+
+.second-line{
+  display: block;
+  background: red;
+}
+
+.third-line{
+  display: inline-block;
+  background: grey;
+}
+
+span{
+  text-decoration: underline;
+  font-style: italic;
+  background-color: gold;
+}
+
+.forth-line{
+  display: none;
+  background: purple;
+}
+
+.fifth-line{
+ visibility: hidden;
+
+}

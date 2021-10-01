@@ -1,0 +1,46 @@
+
+.red{
+  height: 200px;
+  width: 200px;
+  display: inline-block;
+  background: red;
+  position: relative;
+  left: 390px;
+  }
+
+.yellow{
+  height: 200px;
+  width: 200px;
+  display: inline-block;
+  background: yellow;
+  position: relative;
+  right: 12px;
+}
+
+.blue{
+  height: 200px;
+  width: 200px;
+  display: inline-block;
+  position: relative;
+  right : 415px;
+  background: blue;
+
+}
+
+.green {
+  height: 200px;
+  width: 200px;
+  display: inline-block;
+  position: relative;
+  top : 415px;
+  background: green;
+}
+
+.purple{
+  height: 200px;
+  width: 200px;
+  display: inline-block;
+  position: relative;
+  bottom : 80px;
+  background: purple;
+}
