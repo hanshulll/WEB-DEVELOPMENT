@@ -1,0 +1,19 @@
+button::after {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 700;
+    padding: 8px;
+    display: flex;
+    content: 'Adicionar ao carrinho';
+}
+
+button:disabled::after {
+    display: flex;
+    padding: 4px;
+    color: red;
+    content: 'Esgotado';
+}
+
+button:active { 
+    color: green;
+    transition-duration: 1s;
+}

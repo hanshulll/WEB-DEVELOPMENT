@@ -1,0 +1,104 @@
+{
+  "food": [
+    {
+      "name": "Coxa de Frango Russo Albino",
+      "info": "Aproximadamente 5kg de coxa de frango bem temperada, para todos os seus amigos sentirem inveja do seu coxão!",
+      "price": "R$39.99",
+      "value": 39.99,
+      "image": "./images/russianChicken.jpg",
+      "foodTag": "frangoRusso",
+      "button": "",
+      "arrayID": "0"
+    },
+    {
+      "name": "X-Tudo Mil Grau",
+      "info": "O melhor podrão de SP! Vem com tudo que achamos no chão do nosso food-truck! Perna de barata é bonus.",
+      "price": "R$9.99",
+      "value": 9.99,
+      "image": "./images/xtudo.jpg",
+      "foodTag": "xtudoMilGrau",
+      "button": "",
+      "arrayID": "1"
+    },
+    {
+      "name": "Carne de Mamute Albino",
+      "info": "A melhor carne da galáxia! Agora em SP, magnificamente temperada com açafrão do Himalaia e pelinhos de gato preto do ártico siberiano!",
+      "price": "R$64.99",
+      "value": 64.99,
+      "image": "./images/mamute.jpg",
+      "foodTag": "mamuteAlbino",
+      "button": "",
+      "arrayID": "2"
+    },
+    {
+      "name": "Hot-Dog da Tia Juana",
+      "info": "Hot-Dog COMPLETO com 4 salsichas e purê de batata da Tia Juana. O melhor de SP!",
+      "price": "R$14.99",
+      "value": 14.99,
+      "image": "./images/cachorroquente1.jpg",
+      "foodTag": "hotDogJuana",
+      "button": "",
+      "arrayID": "3"
+    },
+    {
+      "name": "Caprese Salad",
+      "info": "Prato especial do Tonio. Favorito do Okuyasu.",
+      "price": "R$25.00",
+      "value": 25.00,
+      "image": "./images/jojoscaprese2.png",
+      "foodTag": "tonioSalad",
+      "button": "",
+      "arrayID": "4"
+    },
+    {
+      "name": "Churrasquinho de gato",
+      "info": "Espetinho de Carne de Churrasco. Será que é de boi mesmo, ou é de gato? ",
+      "price": "R$5.00",
+      "value": 5.00,
+      "image": "./images/gatoEspeto.jpg",
+      "foodTag": "espetoGato",
+      "button": "disabled",
+      "arrayID": "5"
+    },
+    {
+      "name": "Mamão com Wasabi (vegano)",
+      "info": "Favorito do Kanazawa. Com Wasabi verdadeiro, direto do Japão.",
+      "price": "R$19.99",
+      "value": 19.99,
+      "image": "./images/mamaoWasabi.jpg",
+      "foodTag": "wasabiKanazawa",
+      "button": "",
+      "arrayID": "6"
+    },
+    {
+      "name": "Coca-cola lata",
+      "info": "Refrigerante 350ml",
+      "price": "R$4.99",
+      "value": 4.99,
+      "image": "https://cdn.garciasupermercados.com.br/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/r/e/refrigerante_coca_cola_350ml.png",
+      "foodTag": "refrigerante",
+      "button": "",
+      "arrayID": "7"
+    },
+    {
+      "name": "Guaraná Jesus lata",
+      "info": "Refrigerante 350ml",
+      "price": "R$3.99",
+      "value": 3.99,
+      "image": "https://a-static.mlcdn.com.br/1500x1500/refrigerante-guarana-jesus-350ml/postoincospel/7f69c6bcaf1611ea9fda4201ac18501e/942a2cc235170ea4bdee6647a9064c1f.jpg",
+      "foodTag": "refrigerante",
+      "button": "disabled",
+      "arrayID": "8"
+    },
+    {
+      "name": "Guaraná Antarctica lata",
+      "info": "Como refresxcaaa! 350ml",
+      "price": "R$2.99",
+      "value": 2.99,
+      "image": "https://savegnago.vteximg.com.br/arquivos/ids/288962-1000-1000/REFRIGERANTE-ANTARCTICA-350ML-LATA-GUARA.jpg?v=636639069900630000",
+      "foodTag": "refrigerante",
+      "button": "",
+      "arrayID": "9"
+    }
+  ]
+}
