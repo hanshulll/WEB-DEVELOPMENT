@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/main.css">
+    <script defer src="js/main.js"></script>
+    <title>Connect Four</title>
+</head>
+<body>
+    <h1 id="header">JS Error</h1>
+<main>
+    <section id="choiceButtons"> 
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+    </section>
+
+    <section id="gameboard">
+        <div id="c0r5"></div>
+        <div id="c1r5"></div>
+        <div id="c2r5"></div>
+        <div id="c3r5"></div>
+        <div id="c4r5"></div>
+        <div id="c5r5"></div>
+        <div id="c6r5"></div> 
+
+        <div id="c0r4"></div>
+        <div id="c1r4"></div>
+        <div id="c2r4"></div>
+        <div id="c3r4"></div>
+        <div id="c4r4"></div>
+        <div id="c5r4"></div>
+        <div id="c6r4"></div>
+       
+        <div id="c0r3"></div>
+        <div id="c1r3"></div>
+        <div id="c2r3"></div>
+        <div id="c3r3"></div>
+        <div id="c4r3"></div>
+        <div id="c5r3"></div>
+        <div id="c6r3"></div>
+       
+        <div id="c0r2"></div>
+        <div id="c1r2"></div>
+        <div id="c2r2"></div>
+        <div id="c3r2"></div>
+        <div id="c4r2"></div>
+        <div id="c5r2"></div>
+        <div id="c6r2"></div>
+       
+        <div id="c0r1"></div>
+        <div id="c1r1"></div>
+        <div id="c2r1"></div>
+        <div id="c3r1"></div>
+        <div id="c4r1"></div>
+        <div id="c5r1"></div>
+        <div id="c6r1"></div>
+       
+        <div id="c0r0"></div>
+        <div id="c1r0"></div>
+        <div id="c2r0"></div>
+        <div id="c3r0"></div>
+        <div id="c4r0"></div>
+        <div id="c5r0"></div>
+        <div id="c6r0"></div>
+      </section>
+    </main>
+    <aside>
+        <h2>
+            <span class = "pink">0</span>:<span class = "black">0</span>
+        </h2>
+
+        <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cb31d704-5b76-49dc-b1b7-7d347e5978f3/dbn0ffn-a74511e8-4796-4221-bf1d-1521b94e5ea9.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NiMzFkNzA0LTViNzYtNDlkYy1iMWI3LTdkMzQ3ZTU5NzhmM1wvZGJuMGZmbi1hNzQ1MTFlOC00Nzk2LTQyMjEtYmYxZC0xNTIxYjk0ZTVlYTkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.uznWPedyMgC2jE76-urUl0dIh-TAeWCB_j0hBe5bSoU" alt="">
+    </aside>
+    <div id="meta">
+        <button id="replay">Play Again</button>
+        <hr>
+    </div>
+    <footer>
+        <img src="https://stepcity.github.io/common/button/anthrax.gif" />
+        <img src="https://stepcity.github.io/common/button/adspace.gif" />
+        
+        <a href="https://www.youtube.com/watch?v=3bNITQR4Uso"><img src="https://stepcity.github.io/common/button/plasticlove.png" /></a>
+
+        <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b4090cea-0d82-47a8-a8da-980f759995d8/dbxhq6o-fdf280e7-2fa4-4dec-a925-17e1d4ebc090.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2I0MDkwY2VhLTBkODItNDdhOC1hOGRhLTk4MGY3NTk5OTVkOFwvZGJ4aHE2by1mZGYyODBlNy0yZmE0LTRkZWMtYTkyNS0xN2UxZDRlYmMwOTAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.IG-SPD4RODtjtSCTmC52SyNV7xTFAxJvfLnvIoL9-g8" />
+        <img src="https://stepcity.github.io/common/button/adspace.gif" />
+        <a href="http://www.mabsland.com/Adoption.html"><img src="http://www.mabsland.com/Pandas/Censor_NYRc.gif" height="31px" /></a>
+        <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b4090cea-0d82-47a8-a8da-980f759995d8/dbxsx5e-d1c517a3-b3f7-44d3-b5ea-60236c38f3f0.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2I0MDkwY2VhLTBkODItNDdhOC1hOGRhLTk4MGY3NTk5OTVkOFwvZGJ4c3g1ZS1kMWM1MTdhMy1iM2Y3LTQ0ZDMtYjVlYS02MDIzNmMzOGYzZjAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.AHfG4IKuExleiPgc_TQxIR3XRY0g0syrhnRHSaPjK8k" height="31px">
+        <br>
+        <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b4090cea-0d82-47a8-a8da-980f759995d8/dc6twcg-5c19c4d3-21a3-4343-b165-49f2bd9fa16f.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2I0MDkwY2VhLTBkODItNDdhOC1hOGRhLTk4MGY3NTk5OTVkOFwvZGM2dHdjZy01YzE5YzRkMy0yMWEzLTQzNDMtYjE2NS00OWYyYmQ5ZmExNmYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.HqqUzrE7MWwLxJIkBuAmEDuzQ-uTZZ_Y4BpjI3Qw5Eo" alt="">
+        <img src="https://anlucas.neocities.org/got_html.gif" alt="">
+        <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b4090cea-0d82-47a8-a8da-980f759995d8/dbx11fd-be3b35a7-647c-4afa-abbc-541ddc312dde.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2I0MDkwY2VhLTBkODItNDdhOC1hOGRhLTk4MGY3NTk5OTVkOFwvZGJ4MTFmZC1iZTNiMzVhNy02NDdjLTRhZmEtYWJiYy01NDFkZGMzMTJkZGUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.imON5y6T6hAtxY4Wuqk3NFXXyj2nQFnFhr4s3YVeUKw" alt="">
+        <img src="https://web.archive.org/web/20091027052638/http://geocities.com/fourleinsterroad2001/_borders/windowsmediaplayer.gif" alt="">
+
+    </footer>
+    <audio src="https://freesound.org/data/previews/443/443328_4827468-lq.mp3" id="clack"></audio>
+    <audio src="https://freesound.org/data/previews/167/167535_1657645-lq.mp3" id="winner"></audio>
+</body>
+</html>

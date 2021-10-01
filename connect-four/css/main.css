@@ -1,0 +1,185 @@
+body {
+    display: flex;
+    background-image: url("https://wallpaperaccess.com/full/1853779.jpg");
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+main {
+    border: black .5vh solid;
+}
+
+h1 {
+    text-align: center;
+    color: whitesmoke;
+    font-size: 5.5vh;
+    -webkit-text-stroke: .25vh black;
+    background-color: rgba(0, 0, 0, 0.25);
+}
+
+#gameboard {
+    display: grid;
+    grid-template-rows: repeat(6, 10vmin);
+    grid-template-columns: repeat(7, 10vmin);
+    gap: 1vmin;
+    background-color: #95fff7;
+    height: 66.5vmin;
+    width: 78vmin;
+    justify-content: center;
+}
+
+#gameboard > div {
+    border-radius: 50%;
+    border: black .5vh solid;
+    background-color: whitesmoke;
+    align-content: center;
+    cursor:not-allowed;
+}
+
+#choiceButtons {
+    display: grid;
+    background-color: #95fff7;
+    grid-template-columns: repeat(7, 10vmin);
+    padding-bottom: 2vmin;
+    padding-top: 1.5vmin;
+    gap: 1vmin;
+    width: 78vmin;
+    justify-content: center;
+    cursor: pointer;
+}
+
+#choiceButtons > div {
+    border: .5vmin solid black;
+    background-color: whitesmoke;
+    align-content: center;
+    height: 5vmin;
+    cursor: pointer;
+}
+
+#choiceButtons > div:hover {
+    background-color: #0f70b7;
+}
+
+#replay {
+    font-size: 2vmin;
+    background-repeat: no-repeat;
+    background-position: 50% 90;
+    font-weight: bold;
+    padding: 2vmin;
+    margin: 2vmin;
+    border: .3vmin solid grey;
+    color: grey;
+    border-radius: 2vmin;
+    cursor: pointer;
+  }
+
+#replay:hover {
+    background-color: rgb(47, 48, 48);
+    color: black;
+}
+
+@keyframes textGlow {
+    0% {text-shadow: 0.4389924193300864px 0 1px rgba(0,30,255,0.5), -0.4389924193300864px 0 1px rgba(255,0,80,0.3), 0 0 3px}
+    5% {text-shadow: 2.7928974010788217px 0 1px rgba(0,30,255,0.5), -2.7928974010788217px 0 1px rgba(255,0,80,0.3), 0 0 3px}
+    10% {text-shadow: 0.02956275843481219px 0 1px rgba(0,30,255,0.5), -0.02956275843481219px 0 1px rgba(255,0,80,0.3), 0 0 3px}
+    15% {text-shadow: 0.40218538552878136px 0 1px rgba(0,30,255,0.5), -0.40218538552878136px 0 1px rgba(255,0,80,0.3), 0 0 3px}
+    20% {text-shadow: 3.4794037899852017px 0 1px rgba(0,30,255,0.5), -3.4794037899852017px 0 1px rgba(255,0,80,0.3), 0 0 3px}
+    25% {text-shadow: 1.6125630401149584px 0 1px rgba(0,30,255,0.5), -1.6125630401149584px 0 1px rgba(255,0,80,0.3), 0 0 3px}
+    30% {text-shadow: 0.7015590085143956px 0 1px rgba(0,30,255,0.5), -0.7015590085143956px 0 1px rgba(255,0,80,0.3), 0 0 3px}
+    35% {text-shadow: 3.896914047650351px 0 1px rgba(0,30,255,0.5), -3.896914047650351px 0 1px rgba(255,0,80,0.3), 0 0 3px}
+    40% {text-shadow: 3.870905614848819px 0 1px rgba(0,30,255,0.5), -3.870905614848819px 0 1px rgba(255,0,80,0.3), 0 0 3px}
+    45% {text-shadow: 2.231056963361899px 0 1px rgba(0,30,255,0.5), -2.231056963361899px 0 1px rgba(255,0,80,0.3), 0 0 3px}
+    50% {text-shadow: 0.08084290417898504px 0 1px rgba(0,30,255,0.5), -0.08084290417898504px 0 1px rgba(255,0,80,0.3), 0 0 3px}
+    55% {text-shadow: 2.3758461067427543px 0 1px rgba(0,30,255,0.5), -2.3758461067427543px 0 1px rgba(255,0,80,0.3), 0 0 3px}
+    60% {text-shadow: 2.202193051050636px 0 1px rgba(0,30,255,0.5), -2.202193051050636px 0 1px rgba(255,0,80,0.3), 0 0 3px}
+    65% {text-shadow: 2.8638780614874975px 0 1px rgba(0,30,255,0.5), -2.8638780614874975px 0 1px rgba(255,0,80,0.3), 0 0 3px}
+    70% {text-shadow: 0.48874025155497314px 0 1px rgba(0,30,255,0.5), -0.48874025155497314px 0 1px rgba(255,0,80,0.3), 0 0 3px}
+    75% {text-shadow: 1.8948491305757957px 0 1px rgba(0,30,255,0.5), -1.8948491305757957px 0 1px rgba(255,0,80,0.3), 0 0 3px}
+    80% {text-shadow: 0.0833037308038857px 0 1px rgba(0,30,255,0.5), -0.0833037308038857px 0 1px rgba(255,0,80,0.3), 0 0 3px}
+    85% {text-shadow: 0.09769827255241735px 0 1px rgba(0,30,255,0.5), -0.09769827255241735px 0 1px rgba(255,0,80,0.3), 0 0 3px}
+    90% {text-shadow: 3.443339761481782px 0 1px rgba(0,30,255,0.5), -3.443339761481782px 0 1px rgba(255,0,80,0.3), 0 0 3px}
+    95% {text-shadow: 2.1841838852799786px 0 1px rgba(0,30,255,0.5), -2.1841838852799786px 0 1px rgba(255,0,80,0.3), 0 0 3px}
+    100% {text-shadow: 2.6208764473832513px 0 1px rgba(0,30,255,0.5), -2.6208764473832513px 0 1px rgba(255,0,80,0.3), 0 0 3px}
+}
+@keyframes rotate {
+    0% {margin-right: 0px;transform: rotate(0deg)}
+    5% {margin-right: 1px;transform: rotate(1deg)}
+    10% {margin-right: 2px;transform: rotate(2deg)}
+    15% {margin-right: 3px;transform: rotate(3deg)}
+    20% {margin-right: 4px;transform: rotate(4deg)}
+    25% {margin-right: 5px;transform: rotate(5deg)}
+    30% {margin-right: 4px;transform: rotate(4deg)}
+    35% {margin-right: 3px;transform: rotate(3deg)}
+    40% {margin-right: 2px;transform: rotate(2deg)}
+    45% {margin-right: 1px;transform: rotate(1deg)}
+    50% {margin-right: 0px;transform: rotate(0deg)}
+    55% {margin-left: 1px;transform: rotate(-1deg)}
+    60% {margin-left: 2px;transform: rotate(-2deg)}
+    65% {margin-left: 3px;transform: rotate(-3deg)}
+    70% {margin-left: 4px;transform: rotate(-4deg)}
+    75% {margin-left: 5px;transform: rotate(-5deg)}
+    80% {margin-left: 4px;transform: rotate(-4deg)}
+    85% {margin-left: 3px;transform: rotate(-3deg)}
+    90% {margin-left: 2px;transform: rotate(-2deg)}
+    95% {margin-left: 1px;transform: rotate(-1deg)}
+    100% {margin-right: 0px;transform: rotate(0deg)}
+}
+
+.glow {
+    animation: textGlow 1.6s infinite, rotate 3.2s infinite;
+    text-align: center;
+}
+
+/* 1000px and below */
+@media screen and (max-width: 800px) {
+    aside {
+        display: none !important;
+    }
+  }
+
+/* 1000px and below */
+@media screen and (max-width: 1000px) {
+    aside {
+        position: absolute;
+        padding: 1vh;
+        bottom: 20vmin;
+        right: 2vmin;
+        width: 10vmin;
+        text-align: center;
+        background-color: rgba(0, 0, 0, 0.25);
+    }
+  }
+
+/* 1000px and above */
+@media screen and (min-width: 1000px) {
+    aside {
+        position:fixed;
+        bottom: 30vmin;
+        right: 10vmin;
+        text-align: center;
+    }
+
+   aside h2 {
+    background-color: rgba(0, 0, 0, 0.25);
+        font-size: 10vh;
+    }
+
+   aside img {
+        display: none;
+    }
+}
+
+footer {
+    text-align: center;
+}
+
+.pink {
+    color: pink;
+    -webkit-text-stroke: .1vh black;
+}
+
+.black {
+    color: black;    
+    -webkit-text-stroke: .05vh whitesmoke;
+}
