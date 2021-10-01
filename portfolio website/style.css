@@ -1,0 +1,39 @@
+body {
+  background-color: #CAF7E3;
+}
+
+hr {
+
+border-style: none;
+border-top-style: dotted;
+border-color: grey;
+border-width: 5px;
+  width: 5%;
+}
+h1 {
+  color: #0A81AB;
+}
+h3 {
+  color: #0A81AB;
+}
+
+
+ td {
+   font-size: 13px;
+ }
+ li {
+   font-size: 13px;
+ }
+ .contact {
+   font-size: 12px;
+   color: #0A81AB;
+ }
+
+.hobbies {
+  font-size: 12px;
+  color: #0A81AB;
+}
+.GITHUB{
+  font-size: 12PX;
+  color: #FB3640;
+}
