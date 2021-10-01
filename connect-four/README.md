@@ -21,9 +21,3 @@ At each turn, player will drop a game piece in one of the seven columns by click
 
 ### More info
 Read [Wikipedia page on Connect Four](https://en.wikipedia.org/wiki/Connect_Four)
-
-
-## Next Steps:
-- [ ] Add an AI for a single player experience
-- [ ] Let the player choose the color peice they want
-- [ ] Let the player choose name for the scoreboard
